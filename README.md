@@ -5,7 +5,7 @@ Repositório dedicado ao estudo prático dos principais paradigmas de programaç
 ## 📌 Visão Geral
 - **Paradigmas:** ![Imperativo](https://img.shields.io/badge/Imperativo-31%25-orange) ![OO](https://img.shields.io/badge/Orientado%20a%20Objetos-38%25-blue) ![Funcional](https://img.shields.io/badge/Funcional-12%25-yellowgreen) ![Lógico](https://img.shields.io/badge/Lógico-19%25-purple)
 - **Linguagens:** 12
-- **Relatórios:** 16 conjuntos
+- **Relatórios:** 15 conjuntos
 
 ---
 
