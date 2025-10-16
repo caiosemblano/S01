@@ -37,7 +37,7 @@ Repositório dedicado ao estudo prático dos principais paradigmas de programaç
 
 ## 📊 Estatísticas Avançadas
 
-![Visitas](https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&label=VISITAS&color=blueviolet&style=for-the-badge)
+![Visitas](https://komarev.com/ghpvc/?username=caiosemblano&label=VISITAS&color=blueviolet&style=for-the-badge)
 
 ### 🌐 Distribuição de Linguagens (por Relatório)
 ![Top Language](https://img.shields.io/badge/C++-12.5%25-00599C)
@@ -53,4 +53,4 @@ pie
     "Orientado a Objetos" : 6
     "Imperativo" : 5
     "Funcional" : 2
-    "Lógico" : 3
+    "Lógico" : 2
